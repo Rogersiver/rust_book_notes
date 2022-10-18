@@ -16,20 +16,20 @@ The Rust Programming Language
     - [x] Comments
     - [x] Control Flow
 
-  - Understanding Ownership
-    - What is Ownership?
-    - References & Borrowing
-    - Slices
+  - [ ] Understanding Ownership
+    - [ ] What is Ownership?
+    - [ ] References & Borrowing
+    - [ ] Slices
 
-  - Using Structs to Structure Related Data
-    - Defining and Instantiating Structs
-    - An Example Program Using Structs
-    - Method Syntax
+  - [ ] Using Structs to Structure Related Data
+    - [ ] Defining and Instantiating Structs
+    - [ ] An Example Program Using Structs
+    - [ ] Method Syntax
 
-  - Enums and Pattern Matching
-    - Defining an Enum
-    - The match Control Flow Operator
-    - Concise Control Flow with if let
+  - [ ] Enums and Pattern Matching
+    - [ ] Defining an Enum
+    - [ ] The match Control Flow Operator
+    - [ ] Concise Control Flow with if let
 
 - Basic Rust Literacy
 
