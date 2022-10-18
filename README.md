@@ -1,4 +1,4 @@
-# Official Rust Book Notes & Progress
+# Rust Book Code & Progress
 
 The Rust Programming Language
 
