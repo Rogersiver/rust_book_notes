@@ -1,0 +1,1 @@
+/home/roger/workspace/rustbook/src/07_packages_crates_modules/target/debug/packages_crates_modules: /home/roger/workspace/rustbook/src/07_packages_crates_modules/src/garden/vegetables.rs /home/roger/workspace/rustbook/src/07_packages_crates_modules/src/garden.rs /home/roger/workspace/rustbook/src/07_packages_crates_modules/src/main.rs
